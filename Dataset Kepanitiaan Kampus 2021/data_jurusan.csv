@@ -1,0 +1,22 @@
+jurusan_id;nama_jurusan;nama_fakultas;jumlah_mhs
+511;Teknik Sipil;Fakultas Teknik Sipil & Lingkungan;600
+512;Teknik Lingkungan;Fakultas Teknik Sipil & Lingkungan;300
+513;Teknik Pengelolaan Air;Fakultas Teknik Sipil & Lingkungan;200
+521;Teknik Mesin;Fakultas Teknik Mesin;600
+522;Teknik Penerbangan;Fakultas Teknik Mesin;300
+531;Teknik Pertambangan;Fakultas Teknik Pertambangan;400
+532;Teknik Perminyakan;Fakultas Teknik Pertambangan;320
+533;Teknik Geofisika;Fakultas Teknik Pertambangan;200
+541;Geologi;Fakultas Kebumian;400
+542;Meteorologi;Fakultas Kebumian;120
+551;Matematika;Fakultas MIPA;400
+552;Fisika;Fakultas MIPA;400
+553;Kimia;Fakultas MIPA;200
+554;Biologi;Fakultas MIPA;200
+561;Teknik Elektro;Fakultas Elektro & Informatika;400
+562;Teknik Informatika;Fakultas Elektro & Informatika;600
+571;Seni Rupa;Fakultas Seni & Desain;200
+572;Desain Komunikasi;Fakultas Seni & Desain;200
+573;Desain Interior;Fakultas Seni & Desain;120
+581;Manajemen;Fakultas Bisnis;200
+582;Wirausaha;Fakultas Bisnis;200

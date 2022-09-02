@@ -1,0 +1,11 @@
+jabatan_id;nama_jabatan;bobot_jabatan
+101;Ketua Acara;50
+102;Wakil Ketua Acara;40
+103;Sekretaris Acara;40
+104;Wakil Sekretaris Acara;30
+105;Bendahara Acara;40
+106;Wakil Bendahara Acara;30
+107;Ketua Divisi;30
+108;Wakil Ketua Divisi;25
+109;Sekretaris Divisi;25
+110;Anggota Divisi;20
